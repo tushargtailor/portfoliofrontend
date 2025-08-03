@@ -1,0 +1,43 @@
+[
+  {
+    "thumbnail": "/1png.png",
+    "title": "Storeo",
+    "link": {
+      "label": "Live",
+      "url": "https://"
+    },
+    "description": "A cloud storage web app that lets users securely upload, organize, and access files anytime, anywhere. Built with a modern UI for a smooth and intuitive experience.",
+    "languageIcons": [
+      "/nextjs-3.png",
+      "/appwrite_icon-r.png",
+      "/tailwind-css_icon-3.png",
+      "/typescript-30_icon.png"
+    ]
+  },
+  {
+    "thumbnail": "/3.png",
+    "title": "Jett AI",
+    "link": {
+      "label": "Live",
+      "url": "https://"
+    },
+    "description": "A real-time chat application that generates intelligent, context-aware responses using Google AI API.",
+    "languageIcons": [
+      "/react-js-p.png",
+      "/appwrite_icon-r.png",
+      "/tailwind-css_icon-3.png",
+      "/frame_icon.png",
+      "/js_icon.png"
+    ]
+  },
+  {
+    "thumbnail": "/2.png",
+    "title": "Image Gallery",
+    "link": {
+      "label": "Live",
+      "url": "https://"
+    },
+    "description": "A responsive web app that fetches and displays millions of high-quality images from third-party APIs.",
+    "languageIcons": ["/css_icon.png", "/html_icon.png", "/js_icon.png"]
+  }
+]

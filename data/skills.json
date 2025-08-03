@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Next Js",
+    "icon": "/nextjs_icon.svg"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "/ts_icon.png"
+  },
+  {
+    "name": "React JS",
+    "icon": "/react_icon.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "/js_icon.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "icon": "/tailwind-css_icon.png"
+  },
+  {
+    "name": "BootStrap",
+    "icon": "/bootstrap_icon.svg"
+  },
+  {
+    "name": "HTML",
+    "icon": "/html_icon.png"
+  },
+  {
+    "name": "CSS",
+    "icon": "/css_icon.png"
+  }
+]
