@@ -1,10 +1,27 @@
 [
   {
+    "thumbnail": "/propix dash.png",
+    "title": "Propix AI",
+    "link": {
+      "label": "Live",
+      "url": "https://propixai.vercel.app/"
+    },
+    "description": "PropixAI is an AI-powered image editor that enables users to enhance, modify, and create visuals effortlessly. It combines intuitive design with advanced AI features to deliver professional-quality results in seconds.",
+    "languageIcons": [
+      "/nextjs-3.png",
+      "/js_icon.png",
+      "/tailwind-css_icon-3.png",
+      "/convex.png",
+      "/imageKit.png",
+      "/clerk-logo.png"
+    ]
+  },
+  {
     "thumbnail": "/soreo_dashboard_img.png",
     "title": "Storeo",
     "link": {
       "label": "Live",
-      "url": "https://"
+      "url": "https://storeo.vercel.app/sign-in"
     },
     "description": "A cloud storage web app that lets users securely upload, organize, and access files anytime, anywhere. Built with a modern UI for a smooth and intuitive experience.",
     "languageIcons": [
@@ -19,7 +36,7 @@
     "title": "Jett AI",
     "link": {
       "label": "Live",
-      "url": "https://"
+      "url": "https://jett-ai.netlify.app"
     },
     "description": "A real-time chat application that generates intelligent, context-aware responses using Google AI API.",
     "languageIcons": [
@@ -35,7 +52,7 @@
     "title": "Image Gallery",
     "link": {
       "label": "Live",
-      "url": "https://"
+      "url": "https://tushar-image-search-engine.netlify.app/"
     },
     "description": "A responsive web app that fetches and displays millions of high-quality images from third-party APIs.",
     "languageIcons": ["/css_icon.png", "/html_icon.png", "/js_icon.png"]
