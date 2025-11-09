@@ -7,7 +7,7 @@ type Props = {
   image: string;
   company: string;
   role: string;
-  description: string;
+  description: string[];
   dates: string;
 };
 
@@ -29,7 +29,11 @@ const Experience = ({
           </div>
           <p className="text-base md:text-xl font-medium">{role}</p>
         </div>
-        <p className="text-sm md:text-base">{description}</p>
+        <ul className="list-disc ml-6 text-sm md:text-base space-y-1">
+          {description.map((point, index) => (
+            <li key={index}>{point}</li>
+          ))}
+        </ul>
         <p className="text-sm/l md:text-base">{dates}</p>
       </div>
     </Reveal>

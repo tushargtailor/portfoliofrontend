@@ -2,8 +2,13 @@
   {
     "image": "/c1_eazy_icon.png",
     "company": "EazyByts Web Solutions",
-    "role": "Web Developer Intern (Frontend)",
-    "description": "-Built and optimized responsive web applications using React.js, JavaScript, and Tailwind CSS. Integrated RESTful APIs to deliver real‑time data and enhance interactivity. Improved performance through component reusability, state management, and lazy loading, resulting in faster load times and a smoother user experience.",
-    "dates": "Jan. 2025 - Jan. 2025"
+    "role": "Full Stack Developer Intern (Frontend)",
+    "description": [
+      "Developed and maintained responsive web applications using HTML5, CSS3, JavaScript, and React.js, ensuring high performance across devices.",
+      "Integrated RESTful APIs into frontend components to fetch real-time data, enhancing user engagement and reducing static content usage by 40%.",
+      "Improved front-end performance by utilizing React.js best practices, including component reusability, state management, and lazy loading, leading to faster load times and improved interactivity.",
+      "Tech Stack: React.js, JavaScript, Tailwind CSS, Framer Motion, APIs"
+    ],
+    "dates": "Jan. 2025 - Feb. 2025"
   }
 ]
